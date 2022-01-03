@@ -1,0 +1,37 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size:25px;
+    color:whitesmoke;
+    width: 100%;
+    margin:0px;
+}
+
+#start , #status , #number_of_objects
+{
+    font-size:20px;
+}
+
+.copy_right_footer
+{
+    background-color: grey;
+    position: fixed;
+    color: whitesmoke;
+    width:100%;
+    line-height:2;
+    bottom:0px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+canvas
+{
+   border-radius:20px;
+   box-shadow: 5px 5px 5px cyan;
+   margin-top:130px;
+   border:2px solid red;
+}
